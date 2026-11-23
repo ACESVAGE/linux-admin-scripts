@@ -1,4 +1,4 @@
-# 🛡️ Linux Admin & Cybersecurity Bash Scripts
+﻿# 🛡️ Linux Admin & Cybersecurity Bash Scripts
 
 > A growing collection of Bash scripts for **Linux system administration** and **Cybersecurity automation** — built as I master the Cyber world.
 
@@ -6,6 +6,7 @@
 [![Linux](https://img.shields.io/badge/Platform-Linux-blue?logo=linux)](https://kernel.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red?logo=hackthebox)](https://github.com/ACESVAGE/linux-admin-scripts)
+[![Scripts](https://img.shields.io/badge/Scripts-4%2F30-brightgreen)](ROADMAP.md)
 
 ---
 
@@ -37,9 +38,12 @@ linux-admin-scripts/
 
 ## 🚀 Scripts
 
-| Script | Category | Description |
-|--------|----------|-------------|
-| *(scripts will be listed here as they are added)* | | |
+| # | Script | Category | Description | Status |
+|---|--------|----------|-------------|--------|
+| 01 | [user_management.sh](admin/user-management/user_management.sh) | System Admin | Interactive user & group management, passwords, sudo policies | ✅ Done |
+| 02 | [disk_management.sh](admin/disk-management/disk_management.sh) | System Admin | Storage diagnostics, disk cleanup, mounts, partitions & quotas | ✅ Done |
+| 03 | [network_management.sh](admin/network/network_management.sh) | System Admin | Network interfaces, diagnostics, DNS, open ports & firewall | ✅ Done |
+| 04 | [backup_restore.sh](admin/backup/backup_restore.sh) | System Admin | Tar archives, incremental backups, rsync mirrors, checksums & cron | ✅ Done |
 
 ---
 
