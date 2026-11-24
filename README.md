@@ -6,7 +6,7 @@
 [![Linux](https://img.shields.io/badge/Platform-Linux-blue?logo=linux)](https://kernel.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red?logo=hackthebox)](https://github.com/ACESVAGE/linux-admin-scripts)
-[![Scripts](https://img.shields.io/badge/Scripts-4%2F30-brightgreen)](ROADMAP.md)
+[![Scripts](https://img.shields.io/badge/Scripts-5%2F30-brightgreen)](ROADMAP.md)
 
 ---
 
@@ -44,6 +44,7 @@ linux-admin-scripts/
 | 02 | [disk_management.sh](admin/disk-management/disk_management.sh) | System Admin | Storage diagnostics, disk cleanup, mounts, partitions & quotas | ✅ Done |
 | 03 | [network_management.sh](admin/network/network_management.sh) | System Admin | Network interfaces, diagnostics, DNS, open ports & firewall | ✅ Done |
 | 04 | [backup_restore.sh](admin/backup/backup_restore.sh) | System Admin | Tar archives, incremental backups, rsync mirrors, checksums & cron | ✅ Done |
+| 05 | [system_monitor.sh](admin/monitoring/system_monitor.sh) | System Admin | System overview, CPU/RAM/Swap bars, disk I/O, vmstat, process manager, live dashboard & watchdog alerts | ✅ Done |
 
 ---
 

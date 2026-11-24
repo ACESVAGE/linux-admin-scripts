@@ -14,8 +14,8 @@
 | 2 | `disk_management.sh` | `admin/disk-management/` | df, du, lsblk, fdisk, mount, quota, cleanup | ✅ Done |
 | 3 | `network_management.sh` | `admin/network/` | ip, ifconfig, ping, traceroute, netstat, ss, curl | ✅ Done |
 | 4 | `backup_restore.sh` | `admin/backup/` | tar, rsync, cron scheduling, incremental backups | ✅ Done |
-| 5 | `system_monitor.sh` | `admin/monitoring/` | top, htop, vmstat, iostat, uptime, free, alerts | ⏳ Next |
-| 6 | `log_manager.sh` | `admin/monitoring/` | journalctl, logrotate, grep patterns, log archiving | â¬œ |
+| 5 | `system_monitor.sh` | `admin/monitoring/` | top, htop, vmstat, iostat, uptime, free, alerts | ✅ Done |
+| 6 | `log_manager.sh` | `admin/monitoring/` | journalctl, logrotate, grep patterns, log archiving | ⏳ Next |
 | 7 | `service_manager.sh` | `admin/monitoring/` | systemctl, service health checks, auto-restart | â¬œ |
 | 8 | `firewall_manager.sh` | `admin/network/` | ufw, iptables rules, port allow/deny, status report | â¬œ |
 
